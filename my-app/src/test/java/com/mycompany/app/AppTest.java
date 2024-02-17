@@ -17,8 +17,8 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         App ap = new App();
-       // Assert.assertEquals("Helo", ap.says());
-       Assert.assertEquals("Hello", ap.says());
+       Assert.assertEquals("Helo", ap.says());
+       //Assert.assertEquals("Hello", ap.says());
        // assertTrue( true );
     }
 }
